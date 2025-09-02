@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=MarcusOlesen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MarcusOlesen.MarcusOlesen)
