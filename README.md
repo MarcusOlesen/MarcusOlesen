@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,R,python,html,git,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,git,github" />
 </p>
 
 <hr>
