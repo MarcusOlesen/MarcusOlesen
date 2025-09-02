@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Profile views](https://komarev.com/ghpvc/?username=MarcusOlesen&label=Profile%20views&color=0e75b6&style=flat)
-
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=MarcusOlesen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
