@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite,pandas" />
   <br>
-  <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md" />
+  <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md,polars" />
 </p>
 
 <hr>
