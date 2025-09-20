@@ -10,7 +10,8 @@
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"--> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" width="400px" align="middle" alt="langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" width="400px" align="middle" alt="langs"/>
+
 
 
 ## 🛠️ Languages and Tools
