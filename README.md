@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Marcus
 
-I’m passionate about Data Science, machine learning, and exploring how code can solve real-world problems.  
+I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
 Currently, I’m learning more about deep learning and working on projects with Python and R.  
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">    
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
+</p>
 
 <!--div align="left">
   <p>Visitor count</p>
@@ -22,9 +24,7 @@ Currently, I’m learning more about deep learning and working on projects with 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite,r,bash,java,git,github,html,matlab,latex,md" />
 </p>
 
 <hr>
@@ -40,7 +40,7 @@ Currently, I’m learning more about deep learning and working on projects with 
 ---
 
 <div align="center">
-  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF&labelColor=0D1117" alt="Visitor count" />
+  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF" alt="Visitor count" />
 </div>
 
 
