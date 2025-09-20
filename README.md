@@ -31,8 +31,8 @@ Currently, I’m learning more about deep learning and working on projects with 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide=html" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide=html" height="170" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170" align="top" />
 </p>
 
 ---
