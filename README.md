@@ -10,7 +10,7 @@
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"--> 
 
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen" min-width="400px" max-width="300px" width="300px" align="middle" alt="langs"-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen" min-width="400px" max-width="300px" width="300px" align="middle" alt="langs">
 
 
 ## 🛠️ Languages and Tools
