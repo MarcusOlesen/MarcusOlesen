@@ -22,11 +22,11 @@ Currently, I’m learning more about deep learning and working on projects with 
 ## 🛠️ Languages and Tools
 
 <br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite,r,bash,java,git,github,html,matlab,latex,md" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md" />
 </p>
-
 <hr>
 
 
@@ -40,7 +40,7 @@ Currently, I’m learning more about deep learning and working on projects with 
 ---
 
 <div align="center">
-  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF" alt="Visitor count" />
+  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&labelColor=0D1117" alt="Visitor count" />
 </div>
 
 
