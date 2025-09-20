@@ -27,8 +27,6 @@ Currently, I’m learning more about deep learning and working on projects with 
   <br>
   <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md" />
 </p>
-<hr>
-
 
 ## 📊 GitHub Stats
 
@@ -40,7 +38,7 @@ Currently, I’m learning more about deep learning and working on projects with 
 ---
 
 <div align="center">
-  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&labelColor=0D1117" alt="Visitor count" />
+  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF&labelColor=0D1117" alt="Visitor count" />
 </div>
 
 
