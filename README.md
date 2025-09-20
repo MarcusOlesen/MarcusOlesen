@@ -1,7 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">    
 ## Hi there 👋 I'm Marcus
 
-<div align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">    
+
+<div align="left">
   <p>Visitor count</p>
   <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors" alt="Visitor count" />
 </div>
