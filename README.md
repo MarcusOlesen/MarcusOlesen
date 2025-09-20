@@ -1,16 +1,11 @@
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      
-👋 Hi, I’m Marcus!  
+## Hi there 👋 I'm Marcus
+
 I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
 Currently, I’m learning more about deep learning and working on projects with Python and R.  
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
+</p>
 
 <!--div align="left">
   <p>Visitor count</p>
