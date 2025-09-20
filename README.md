@@ -7,6 +7,8 @@
   <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors" alt="Visitor count" />
 </div>
 
+<img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF&labelColor=0D1117" alt="Visitor count" />
+
 
 <!--img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"--> 
 
