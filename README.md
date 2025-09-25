@@ -1,16 +1,12 @@
 ## Hello world 👋 I'm Marcus
-<!-- MARKDOWN TABLE STYLING HACK -->
-<div style="display: table; width: 100%; border: none;">
-  <div style="display: table-row; border: none;">
-    <div style="display: table-cell; width: 60%; padding: 10px; border: none; vertical-align: top;">
-      I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
-    </div>
-    <div style="display: table-cell; width: 40%; padding: 10px; border: none; vertical-align: top; text-align: center;">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
-    </div>
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <div style="flex: 1.5;">
+    I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
   </div>
 </div>
-
 
 <!--div align="left">
   <p>Visitor count</p>
