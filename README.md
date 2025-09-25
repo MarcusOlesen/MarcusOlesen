@@ -3,8 +3,7 @@
 
 <div style="overflow: auto;">
   <span style="float: left; width: 50%;">
-    I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
-    Currently, I’m learning more about deep learning and working on projects with Python and R.  
+    I’m passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I’m learning more about deep learning and working on projects with Python and R.  
   </span>
   <span style="float: right; width: 50%;">
     <p align="right">
