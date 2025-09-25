@@ -1,6 +1,6 @@
 ## Hello world 👋 I'm Marcus
 
-<table border="0" cellspacing="0" cellpadding="10">
+
 <tr>
 <td width="60%">
 I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
@@ -11,7 +11,7 @@ I'm passionate about data science, machine learning, and exploring how code can 
 </p>
 </td>
 </tr>
-</table>
+
 
 <!--div align="left">
   <p>Visitor count</p>
