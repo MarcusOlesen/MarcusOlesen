@@ -2,10 +2,10 @@
 
 
 <div style="overflow: auto;">
-  <span style="float: left; width: 50%;">
+  <span style="float: left; width: 20%;">
     I’m passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I’m learning more about deep learning and working on projects with Python and R.  
   </span>
-  <span style="float: right; width: 50%;">
+  <span style="float: right; width: 80%;">
     <p align="right">
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
     </p>
