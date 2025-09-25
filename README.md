@@ -2,12 +2,12 @@
 
 <table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="40%" style="border: none; padding: 10px;">
+<td width="50%" style="border: none; padding: 10px;">
 I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
 </td>
-<td width="60%" style="border: none; padding: 10px;">
+<td width="50%" style="border: none; padding: 10px;">
 <p align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">
 </p>
 </td>
 </tr>
