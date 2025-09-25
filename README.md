@@ -1,13 +1,17 @@
 ## Hello world 👋 I'm Marcus
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">
-  </div>
-</div>
+<table>
+<tr>
+<td width="60%">
+I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
+</td>
+<td width="40%">
+<p align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
+</p>
+</td>
+</tr>
+</table>
 
 <!--div align="left">
   <p>Visitor count</p>
