@@ -1,17 +1,15 @@
 ## Hello world 👋 I'm Marcus
 <!-- MARKDOWN TABLE STYLING HACK -->
-<table>
-<tr>
-<td width="60%" style="border: none !important;">
-I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
-</td>
-<td width="40%" style="border: none !important;">
-<p align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
-</p>
-</td>
-</tr>
-</table>
+<div style="display: table; width: 100%; border: none;">
+  <div style="display: table-row; border: none;">
+    <div style="display: table-cell; width: 60%; padding: 10px; border: none; vertical-align: top;">
+      I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
+    </div>
+    <div style="display: table-cell; width: 40%; padding: 10px; border: none; vertical-align: top; text-align: center;">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
+    </div>
+  </div>
+</div>
 
 
 <!--div align="left">
