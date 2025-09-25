@@ -7,7 +7,9 @@
     Currently, I’m learning more about deep learning and working on projects with Python and R.  
   </span>
   <span style="float: right; width: 50%;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
+    </p>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
+    </p>
   </span>
 </div>
 <div style="clear: both;"></div>
