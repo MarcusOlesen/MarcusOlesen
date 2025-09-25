@@ -1,11 +1,10 @@
-## Hi there 👋 I'm Marcus
+## Hello world 👋 I'm Marcus
 
-I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
-Currently, I’m learning more about deep learning and working on projects with Python and R.  
-
-<p align="center">
+I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Laptop Illustration">    
 </p>
+Currently, I’m learning more about deep learning and working on projects with Python and R.  
+
 
 <!--div align="left">
   <p>Visitor count</p>
