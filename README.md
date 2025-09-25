@@ -1,14 +1,11 @@
 ## Hello world 👋 I'm Marcus
-<table style="border: none !important; border-collapse: collapse !important;">
-<tr style="border: none !important;">
-<td style="border: none !important; padding: 10px; width: 60%;">
-I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
-</td>
-<td style="border: none !important; padding: 10px; width: 40%; text-align: center;">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">
-</td>
-</tr>
-</table>
+
+I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
+Currently, I’m learning more about deep learning and working on projects with Python and R.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">    
+</p>
 
 <!--div align="left">
   <p>Visitor count</p>
