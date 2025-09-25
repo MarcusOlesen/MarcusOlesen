@@ -3,7 +3,9 @@
 <table style="border: none; border-collapse: collapse;">
 <tr>
 <td width="50%" style="border: none; padding: 10px;">
-I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. Currently, I'm learning more about deep learning and working on projects with Python and R.
+I'm passionate about data science, machine learning, and exploring how code can solve real-world problems. 
+  
+Currently, I'm learning more about deep learning and working on projects with Python and R.
 </td>
 <td width="50%" style="border: none; padding: 10px;">
 <p align="center">
