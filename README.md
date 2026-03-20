@@ -1,58 +1,33 @@
-## Hello world 👋 I'm Marcus
+# Marcus Olesen
 
-I’m passionate about data science, machine learning, and exploring how code can solve real-world problems.  
-Currently, I’m learning more about deep learning and working on projects with Python and R.  
+Data science and machine learning practitioner focused on building practical, data-driven solutions with Python, R, and SQL.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Laptop Illustration">    
-</p>
+I work on projects involving machine learning, deep learning, data analysis, and scientific computing. My main interest is using code and data to solve real problems in a way that is clear, structured, and useful.
 
-<!--div align="left">
-  <p>Visitor count</p>
-  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors" alt="Visitor count" />
-</div>
+## Focus Areas
 
+- Machine learning and deep learning
+- Data analysis and predictive modeling
+- Applied projects in Python and R
+- Practical problem-solving with data
 
-<!--img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&count_private=true" min-width="400px" max-width="400px" width="400px" align="middle" alt="Stats"--> 
+## Tech Stack
 
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" width="400px" align="middle" alt="langs"/-->
+- Languages: Python, R, SQL, Bash, Java
+- ML and data tools: PyTorch, TensorFlow, Anaconda
+- Databases: PostgreSQL, MySQL, SQLite
+- Other tools: Git, GitHub, MATLAB, LaTeX, Markdown
 
+## Current Direction
 
+- Deepening end-to-end machine learning project experience
+- Exploring modern deep learning workflows and model development
+- Building projects with clear practical or analytical value
 
-## 🛠️ Languages and Tools
+## GitHub
 
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,mysql,postgres,sqlite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=r,bash,java,git,github,html,matlab,latex,md" />
-</p>
-
-## 📊 GitHub Stats
+This profile is where I share projects related to data science, machine learning, and applied programming. The repositories here reflect both technical development and hands-on work with data-driven problem solving.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusOlesen&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&hide=html" height="170" align="top" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" height="170" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&hide_border=true&include_all_commits=true" height="160" alt="GitHub stats" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://hits.sh/github.com/MarcusOlesen.svg?style=flat-square&label=Visitors&color=58A6FF&labelColor=0D1117" alt="Visitor count" />
-</div>
-
-
-<!--
-**MarcusOlesen/MarcusOlesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
