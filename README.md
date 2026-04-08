@@ -27,7 +27,3 @@ I work on projects involving machine learning, deep learning, data analysis, and
 ## GitHub
 
 This profile is where I share projects related to data science, machine learning, and applied programming. The repositories here reflect both technical development and hands-on work with data-driven problem solving.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusOlesen&show_icons=true&hide_border=true&include_all_commits=true" height="160" alt="GitHub stats" />
-</p>
