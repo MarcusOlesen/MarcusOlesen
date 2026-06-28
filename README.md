@@ -1,6 +1,6 @@
 # Marcus Olesen
 
-M.Sc. Data Science student at Aarhus University and Student Programmer at DATALAB.
+M.Sc. in Data Science and Student Programmer at DATALAB.
 
 My work sits between research engineering, data-intensive systems, and applied machine learning. I mainly build reproducible Python workflows for large-scale data collection and processing, with recent work focused on YouTube metadata pipelines, a Postgres-coordinated downloader, and improving storage and processing with Parquet and Polars.
 
